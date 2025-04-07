@@ -8,4 +8,4 @@ DirectX9を勉強するために作成したブロック崩しゲームです。
 VisualStudio, c++, DirectX9, WindwsAPI
 
 ## 制作日
-2022/05
+2021/05
