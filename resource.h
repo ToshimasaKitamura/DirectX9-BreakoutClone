@@ -1,0 +1,5 @@
+#pragma once
+
+#define	IDC_GROUPBOX100		100
+#define	IDC_RADIOBUTTON101		101
+#define	IDC_RADIOBUTTON102		102
